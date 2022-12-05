@@ -1,0 +1,350 @@
+body{
+	font-family: 'Styles', serif;
+	background-image: radial-gradient(circle at 120.71% 50%, #00ffff 0, #0fe9ff 25%, #3cb5f2 50%, #4084af 75%, #375974 100%);
+}
+
+header {
+	background-image: radial-gradient(circle at 120.71% 50%, #00ffff 0, #0fe9ff 25%, #3cb5f2 50%, #4084af 75%, #375974 100%);
+	padding: 30px;
+	text-align: center;
+}
+.caixa {
+    width: 100%;
+    padding: 0px 15px 12px 15px; 
+    margin: auto;
+    color: #FEFEFE;
+
+}
+li{
+	font-style: #fefefe;
+}
+
+
+ul{
+	padding: 40px;
+	font-style: #FEFEFE;
+	margin: 12PX;
+}
+}
+.hexa{
+
+    text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 39px;
+	text-decoration: none;
+	padding: 15px;
+	text-align: center;
+}
+
+main{
+	background: #2F4F4F;
+	width: 100%;
+}
+strong{
+	color: #000;
+	font-weight: bold;
+}
+
+nav {
+	
+	top: 200px;
+	left: 10px;
+}
+nav li {
+	display: inline;
+}
+nav a {
+	display: inline-block;
+	text-transform: uppercase;
+	color: #265;
+	font-weight: bold;
+	font-size: 25px;
+	text-decoration: none;
+	text-align: right;
+	 
+}
+nav a:hover {
+	color: #000;
+	text-decoration: underline;
+}
+div{
+	width: 50%;
+	height: 50px;
+	margin: 10%;
+}
+h3 {
+	background-image: radial-gradient(circle at 20.41% 47.41%, #c9c2ff 0, #919cff 25%, #3c78f2 50%, #0059e3 75%, #0041d4 100%);
+	font-size:40px;
+	display: inline-block;
+	padding: 0px;
+	margin: 0%;
+}
+h5 {
+	background-image: radial-gradient(circle at 20.41% 47.41%, #c9c2ff 0, #919cff 25%, #3c78f2 50%, #0059e3 75%, #0041d4 100%);
+	font-size: 30px;
+	display: inline;
+	padding: 21px;
+	margin: 20px;
+}
+.Lucas{
+	background-image: radial-gradient(circle at -8.38% 50%, #f4ffd1 0, #e6ffd0 12.5%,
+	#d3ffcc 25%, #bbffc4 37.5%, #9df2b9 50%, #7ce4b0 62.5%, #5cdaac 75%, #3ad2ad 87.5%, #00cfb2 100%);
+	font-size: 50px;
+	padding: 10px;
+	text-align: center;
+}
+
+.Lucas1{
+	display: inline-block;
+	background: #ADD8E6;
+	width: 50%;
+	padding: 10px;
+}
+.Lucas2{
+	display: inline-block;
+	background: #ADD8E6;
+	width: 0%;
+	padding: 0px;
+}
+.evento{
+	font-size: 30px;
+	color: #2F4F4F;
+	text-align: left;
+	padding: 1px;
+
+
+} 
+
+.nomeC{
+	background-image: radial-gradient(circle at -8.38% 50%, #f4ffd1 0, #e6ffd0 12.5%,
+	#d3ffcc 25%, #bbffc4 37.5%, #9df2b9 50%, #7ce4b0 62.5%, #5cdaac 75%, #3ad2ad 87.5%, #00cfb2 100%);
+   	font-size: 60px;
+	color: #000;
+	text-align: right;
+	padding: 10px;
+}
+.contatos{   
+	font-size: 40px;
+	color: #000;
+	text-align: center;
+	padding: 10px;background-image: radial-gradient(circle at -8.38% 50%, #f4ffd1 0, #e6ffd0 12.5%,
+	#d3ffcc 25%, #bbffc4 37.5%, #9df2b9 50%, #7ce4b0 62.5%, #5cdaac 75%, #3ad2ad 87.5%, #00cfb2 100%);
+	width: 77%;
+	text-align: right;
+	padding: 12px;
+}
+.Lucas li:hover {
+	border-color: yellow;	
+}
+.Lucas1 li:active{
+	border-color: #088C19;
+}
+.Lucas1 li:hover h2{
+	font-size: 34px;
+}
+
+/*SEMPRE BUSCANDO APRENDER MAIS - @CONEXÃOJOVEM - Conexão*/
+
+.descricao{
+	font-size: 10px;
+	color:#00008B;
+	text-align: center;
+	padding: 10PX
+}
+.subdescricao{
+	padding:10PX;
+	font-size: 10px;
+	font-weight: bold;
+}
+/*SEMPRE BUSCANDO APRENDER MAIS - @CONEXÃOJOVEM - Conexão jovem*/
+
+.excel{
+	width: 100px;
+	text-align: center; 
+	padding:0 3em;
+}
+.eles{
+	display: inline-block;
+	background: #9370DB;
+	width: 301px;
+	padding: 10px;
+	margin: 30px;
+}
+.nois{
+	background:#4B0082;
+	width: 250px;
+	margin: 21px 0 30px;
+	padding: 15px;
+}
+form {
+	margin: 2px 0 ;
+}
+form label, form legend{
+	display: block;
+	font-size: 20px;
+	margin: 0 0 10px;
+}
+.input-padrao{
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 50%;
+	color: red;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.checkbox{
+	margin: 20px 0;
+}
+.Enviar{
+	width: 40%;
+	padding: 15px 0;
+	background: #7cfc00;
+	color: #blue;
+	font-weight: bold;
+	font-size: 18px;
+	border: none;
+	border-radius: 10px;
+	transition: 2S background;
+	cursor: pointer;
+}
+.Enviar:hover {
+	background: #00ff7f;
+}
+table{
+	margin: 20px 0 40px;
+}
+thead{
+	background: #2f4f4f;
+	color: white;
+	font-weight: bold;
+}
+td,th{
+	border: 1px solid pink;
+	padding: 8px 15px;
+}
+/* Aqui está construido o meu Css, Att; Lugleilton Lucas*/
+
+.titulo-principal{
+	text-align: right;
+	font-size:4em ;
+	margin: 1em 1em 1em 1em;
+	color: #00FF00
+	padding: 8;
+
+}
+.GOSTO{
+	text-align: center;
+	font-size:4em ;
+	margin: 0 0 1em;
+	color: #000000;
+	background-image: radial-gradient(circle at 20.41% 47.41%, #c9c2ff 0, #919cff 25%, #3c78f2 50%, #0059e3 75%, #0041d4 100%);
+	padding: 20px;
+	width: 100%;
+}
+.mascote{
+	width: 100px;
+    margin: 200 5px 40px 0;
+}
+.novomascote{
+    background: #40E0D0;
+	width: 100%;
+	margin: 0px 1px;
+	padding: 30px;
+	border: 10px;
+	border-color: black;
+	border-bottom: 1px solid;
+    border-top: 1px solid;
+}
+.principal{
+	color: white;
+	padding: 9em 0;
+    background-image: 
+    radial-gradient(circle at 119.64% 62.28%, #ade5ff 0, #7dcefb 25%, #3cb5f2 50%, #009ce9 75%, #0085e0 100%);
+	width: 100%;
+	margin: 0 auto;
+}
+.principal p {
+	margin: 0 0 1em;
+	font-size: 25PX;
+}
+.principal strong {
+	font-weight: bold;
+}
+.principal em {
+	font-style: italic;
+}
+.utensilios{
+	width: 400px;
+	float: left;
+	margin: 0 10px 10px 39px;
+	padding: 20px;
+}
+.digital {
+	width: 700px;
+	margin-left: 900px;
+	margin-top: -700px;
+}
+.itens:before{
+	content: "✏";
+}
+.imagem-beneficios {
+	width: 60%;
+}
+.beneficios{
+	padding: 3em 0;
+	background: linear-gradient(#24AEF5, #FFE63C);
+}
+.conteudo-beneficios{
+    width: 100%;
+    padding: 10px;
+}
+.lista-beneficios{
+	width: 300%;
+    display: inline-block;
+    font-size: 29px;
+    padding: 10px;
+}
+.video{
+	display: inline;
+	width: 6px;
+	margin: 5 10 23px;
+	padding: 10px 250px;
+	color: yellow;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 34px;
+	padding: 10px;
+	position: relative;
+}
+.cena{
+	color: #000;
+	padding:100px;
+}
+	@media screen and (max-width: 480px) {
+	.caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video;
+}
+
+ h2{
+ 	text-align: center;
+ }
+ nav {
+	position: static;
+}
+.lista-beneficios, .imagem-beneficios {
+	width: 100%;
+}
+.bola{
+	width: 10px;
+}
+
+.copy{
+	background-image: radial-gradient(circle at 20.41% 47.41%, #c9c2ff 0, #919cff 25%, #3c78f2 50%, #0059e3 75%, #0041d4 100%);
+	color: #000;
+	font-size: 10PX;
+	margin: 5PX;
+	padding: 10px;
+	text-align: center;
+	font-weight: bold;
+}
